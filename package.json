@@ -1,0 +1,28 @@
+{
+  "name": "all_front",
+  "version": "1.0.0",
+  "description": "project to make website by front end",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "static-server": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "browserslist":[
+    "last 2 version",
+    "> 2%"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatema",
+  "license": "ISC"
+}
