@@ -4,7 +4,7 @@
   "description": "project to make website by front end",
   "main": "index.js",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "static-server": "^2.2.1"
   },
   "devDependencies": {
